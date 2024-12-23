@@ -1,0 +1,4 @@
+# Active waybar
+bar {
+  swaybar_command waybar
+}
